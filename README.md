@@ -76,13 +76,17 @@ endmodule
 */
 
 **RTL Schematic**
+
 **Output Timing Waveform**
+
  Full Adder
+ 
 <img width="587" height="313" alt="Screenshot 2025-12-18 220232" src="https://github.com/user-attachments/assets/8ae72a34-1d2c-46c5-821f-d2fa73840b3a" />
 
 <img width="1885" height="365" alt="Screenshot 2025-12-18 220452" src="https://github.com/user-attachments/assets/3b534919-ed0f-40c9-a75b-0646c1f58b7e" />
 
 Full Subtractor
+
 <img width="1533" height="665" alt="Screenshot 2025-12-06 125116" src="https://github.com/user-attachments/assets/b0d1f2f9-b5ea-41a9-bcc2-10cd8374540a" />
 
 <img width="1261" height="203" alt="Screenshot 2025-12-06 125706" src="https://github.com/user-attachments/assets/80f2e0ce-b2ad-4757-9ffd-e2a6d4b0b8b0" />
