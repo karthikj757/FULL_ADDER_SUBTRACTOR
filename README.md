@@ -87,11 +87,11 @@ endmodule
 
 Full Subtractor
 
-<img width="1533" height="665" alt="Screenshot 2025-12-06 125116" src="https://github.com/user-attachments/assets/b0d1f2f9-b5ea-41a9-bcc2-10cd8374540a" />
 
-<img width="1261" height="203" alt="Screenshot 2025-12-06 125706" src="https://github.com/user-attachments/assets/80f2e0ce-b2ad-4757-9ffd-e2a6d4b0b8b0" />
+<img width="615" height="295" alt="Screenshot 2025-12-18 221705" src="https://github.com/user-attachments/assets/efb22a75-4a8f-4899-a977-cfa92049e657" />
 
 
+<img width="1919" height="375" alt="Screenshot 2025-12-18 222238" src="https://github.com/user-attachments/assets/1f98b9c6-2b27-4b67-81d7-66cf2a81a206" />
 
 
 **Result:**
